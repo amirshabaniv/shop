@@ -1,3 +1,2 @@
-# django_shop
-#### This is django shop project.
+# django shop project
 #### This project is not personal and is taken from mongard.ir
