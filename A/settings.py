@@ -151,8 +151,8 @@ LOGIN_URL = 'accounts/login/'
 
 # ARVAN CLOUD STORAGE
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
-AWS_ACCESS_KEY_ID = '2df34402-0eec-428f-9a05-5989a5babfba'
-AWS_SECRET_ACCESS_KEY = 'd4388e1ff51b1dac1a5b79c33267b7812343dbc4bfc8a738d61618d1faaa9fd7'
+AWS_ACCESS_KEY_ID = 'key'
+AWS_SECRET_ACCESS_KEY = 'key'
 AWS_S3_ENDPOINT_URL = 'https://s3.ir-thr-at1.arvanstorage.ir'
 AWS_STORAGE_BUCKET_NAME = 'django-shop-a'
 AWS_SERVICE_NAME = 's3'
